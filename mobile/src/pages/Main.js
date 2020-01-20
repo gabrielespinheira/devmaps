@@ -56,7 +56,6 @@ export default function Main({ navigation }) {
   }
 
   function handleRegionChanged(region) {
-    console.log(region)
     setCurrentRegion(region)
   }
 
