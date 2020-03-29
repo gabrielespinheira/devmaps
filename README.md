@@ -1,4 +1,4 @@
-# semanaomnistack10
+# DevMaps
 Desenvolvido durante a Semana Omnistack 10 da @rocketseat
 
 #### Aplicação utilizando NodeJs (API), ReactJs (Web) e React Native (Android e iOS)
